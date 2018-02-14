@@ -1,5 +1,5 @@
 {
-  "name": "ng4-popover",
+  "name": "ngx-popover",
   "version": "1.0.23",
   "description": "Simple popover control for your angular2 applications using bootstrap3.",
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ctubio/ng4-popover.git"
+    "url": "https://github.com/ctubio/ngx-popover.git"
   },
   "private": false,
   "tags": [
